@@ -1,0 +1,37 @@
+body{
+    background-color: #336E7B;
+}
+
+#headDiv{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    max-width: available;
+    font-size: 50px;
+    line-height: 100px;
+    vertical-align:center;
+}
+
+#contentDiv{
+    background-color: whitesmoke;
+    color: black;
+    margin-left: 50px;
+    margin-right: 50px;
+    max-width: content-box;
+    font-size: 20px;
+    line-height: 100px;
+    vertical-align:center;
+    overflow: auto;
+}
+
+#footerDiv{
+    background-color: black;
+    color: #F5D76E;
+    padding: 10px;
+    max-width: available;
+
+}
+
+table, th, td {
+    border: 1px solid black;
+}
